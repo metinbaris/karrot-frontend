@@ -23,6 +23,7 @@ Please document your changes in this format:
 ## [Unreleased]
 ### Added
 - allow to dismiss feedback @dpaque @layla19 @larzon83 @pogopaule [#2319]
+- Users can revoke trust @pogopaule [#2352]
 
 ### Changed
 - group: improve create/edit group form @larzon83 @layla19 @dpaque @pogopaule @brnsolikyl [#2306]
