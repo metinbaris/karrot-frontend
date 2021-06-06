@@ -21,6 +21,8 @@ Please document your changes in this format:
 ```
 
 ## [Unreleased]
+### Fixed
+- Redirect again to last visited group @tiltec #2373
 
 ## [9.3.0] - 2021-06-03
 ### Added
